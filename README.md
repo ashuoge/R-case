@@ -1,3 +1,6 @@
+Generate kernel density plots and violin plots using R language and CPI data.
+
+
 Result output:
 
 
